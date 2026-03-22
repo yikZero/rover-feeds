@@ -1,0 +1,156 @@
+rss:
+  # Tech news / aggregators
+  - url: https://hnrss.org/frontpage
+    tags: [tech, general]
+  - url: https://www.theverge.com/rss/index.xml
+    tags: [tech, news]
+  - url: https://9to5mac.com/feed/
+    tags: [apple, tech]
+  - url: https://thenewstack.io/feed
+    tags: [devops, cloud]
+
+  # AI focused
+  - url: https://simonwillison.net/atom/everything/
+    tags: [ai, python]
+  - url: https://www.latent.space/feed
+    tags: [ai, engineering]
+  - url: https://openai.com/news/rss.xml
+    tags: [ai, research]
+  - url: https://huggingface.co/blog/feed.xml
+    tags: [ai, dev]
+  - url: https://blog.langchain.com/rss/
+    tags: [ai, dev]
+  - url: https://www.bensbites.com/feed
+    tags: [ai, news]
+  - url: https://blog.bytebytego.com/feed
+    tags: [tech, engineering]
+  - url: https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml  # The Rundown AI
+    tags: [ai, news]
+  - url: https://www.marktechpost.com/feed/
+    tags: [ai, research]
+  - url: https://the-decoder.com/feed/
+    tags: [ai, news]
+  - url: https://www.interconnects.ai/feed
+    tags: [ai, research]
+  - url: https://magazine.sebastianraschka.com/feed  # Ahead of AI
+    tags: [ai, research]
+  - url: https://huyenchip.com/feed.xml
+    tags: [ai, engineering]
+
+  # Tech news / engineering
+  - url: https://blog.cloudflare.com/rss
+    tags: [engineering, cloud]
+  - url: https://www.404media.co/rss
+    tags: [tech, news]
+
+  # Developer blogs
+  - url: https://xeiaso.net/blog.rss
+    tags: [tech, devops]
+  - url: https://blog.jim-nielsen.com/feed.xml
+    tags: [frontend, design]
+  - url: https://dwarkesh.com/feed
+    tags: [ai, tech]
+  - url: https://entropicthoughts.com/feed.xml
+    tags: [tech, engineering]
+
+  # Chinese tech
+  - url: https://www.ruanyifeng.com/blog/atom.xml
+    tags: [tech, zh]
+  - url: https://tw93.fun/feed.xml
+    tags: [frontend, zh]
+
+twitter:
+  - handle: trq212
+    tags: [ai, dev]
+  - handle: HiTw93
+    tags: [frontend, dev]
+  - handle: op7418
+    tags: [ai, design]
+  - handle: bcherny
+    tags: [frontend, typescript]
+  - handle: ryolu_
+    tags: [ai, dev]
+  - handle: GeminiApp
+    tags: [ai]
+  - handle: claudeai
+    tags: [ai]
+  - handle: OpenAI
+    tags: [ai]
+  - handle: nvidia
+    tags: [ai, hardware]
+  - handle: sama
+    tags: [ai, tech]
+  - handle: gdb
+    tags: [ai]
+  - handle: OfficialLoganK
+    tags: [ai]
+  - handle: jackclarkSF
+    tags: [ai, policy]
+  - handle: alexalbert__
+    tags: [ai]
+  - handle: dotey
+    tags: [ai, tech]
+  - handle: oran_ge
+    tags: [ai, tech]
+  - handle: dingyi
+    tags: [dev, tech]
+  - handle: karpathy
+    tags: [ai, research]
+  - handle: AndrewYNg
+    tags: [ai, research]
+  - handle: demishassabis
+    tags: [ai, research]
+  - handle: Thom_Wolf
+    tags: [ai, dev]
+  - handle: AnthropicAI
+    tags: [ai]
+  - handle: GoogleDeepMind
+    tags: [ai, research]
+  - handle: xiaohu
+    tags: [ai, zh]
+  - handle: stitchbygoogle
+    tags: [ai, design]
+  - handle: GoogleCloudTech
+    tags: [ai, cloud]
+  - handle: svpino
+    tags: [ai, dev]
+  - handle: shadcn
+    tags: [frontend, design]
+  - handle: tdinh_me
+    tags: [indie, saas]
+  - handle: VitalikButerin
+    tags: [crypto, web3]
+  - handle: _akhaliq
+    tags: [ai, research]
+  - handle: DrJimFan
+    tags: [ai, research]
+  - handle: swyx
+    tags: [ai, engineering]
+  - handle: emollick
+    tags: [ai, product]
+  - handle: ylecun
+    tags: [ai, research]
+  - handle: DarioAmodei
+    tags: [ai, policy]
+  - handle: hwchase17
+    tags: [ai, dev]
+  - handle: kaifulee
+    tags: [ai, zh]
+  - handle: cursor_ai
+    tags: [ai, dev]
+  - handle: openaidevs
+    tags: [ai, dev]
+  - handle: lydiahallie
+    tags: [frontend, dev]
+  - handle: huggingpapers
+    tags: [ai, research]
+  - handle: rauchg
+    tags: [frontend, ai]
+  - handle: leerob
+    tags: [frontend, dev]
+  - handle: shuding
+    tags: [frontend, ai]
+  - handle: steipete
+    tags: [ai, dev]
+  - handle: jxnlco
+    tags: [ai, dev]
