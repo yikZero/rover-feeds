@@ -10,8 +10,6 @@ rss:
     tags: [devops, cloud]
 
   # AI focused
-  - url: https://simonwillison.net/atom/everything/
-    tags: [ai, python]
   - url: https://www.latent.space/feed
     tags: [ai, engineering]
   - url: https://openai.com/news/rss.xml
